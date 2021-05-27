@@ -1,0 +1,86 @@
+.jumbotron {
+    background-image: url(../beach.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.heroheading {
+    text-align: center;
+    font-family: 'century gothic'
+}
+
+.herotext {
+    text-align: center;
+    font-family: 'montserrat'
+}
+
+h1, h2, h3, h4, p{
+    font-family: 'century gothic';
+    text-align: center;
+    width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+}
+
+.different{
+    width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    text-align: left;
+    margin-left: 10%;
+    list-style-position: inside;
+    
+}
+
+.nav-item{
+    display: block;
+    margin-right: auto;
+}
+
+.persona {
+    display: block;
+    width: 50%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.journeymap {
+    display: block;
+    width: 50%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.userflow {
+    display: block;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.companalysis {
+    display: block;
+    width: 50%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.screenshot {
+    display: block;
+    width: 50%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prototype {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
